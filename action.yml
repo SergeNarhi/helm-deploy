@@ -1,9 +1,9 @@
-name: Helm Deploy
+name: Helm Deploy v3
 description: Deploys a helm chart to Kubernetes
 author: SergeNarhi
 branding:
   icon: anchor
-  color: gray-dark
+  color: white
 inputs:
   release:
     description: Helm release name. Will be combined with track if set. (required)
