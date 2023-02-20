@@ -1,6 +1,6 @@
 name: Helm Deploy
 description: Deploys a helm chart to Kubernetes
-author: lykon
+author: SergeNarhi
 branding:
   icon: anchor
   color: gray-dark
@@ -66,4 +66,4 @@ inputs:
     required: false
 runs:
   using: docker
-  image: docker://ghcr.io/vimeda/helm
+  image: docker://ghcr.io/droppmarket/helm-deploy
