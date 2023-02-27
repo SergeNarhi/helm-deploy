@@ -1,5 +1,5 @@
-name: Helm Deploy v3
-description: Deploys a helm chart to Kubernetes
+name: Helm Deploy by Narhi
+description: Better deploys a helm chart to Kubernetes
 author: SergeNarhi
 branding:
   icon: anchor
