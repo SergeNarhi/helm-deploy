@@ -3,10 +3,10 @@
   "version": "3.1.2",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/deliverybot/helm",
+  "homepage": "https://github.com/sergenarhi/helm-deploy",
   "author": {
-    "name": "deliverybot",
-    "url": "https://github.com/deliverybot"
+    "name": "Serge Narhi",
+    "url": "https://github.com/sergenarhi"
   },
   "dependencies": {
     "@actions/core": "^1.2.6",

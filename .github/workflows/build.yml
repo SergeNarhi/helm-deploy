@@ -21,7 +21,7 @@ jobs:
       - uses: docker/metadata-action@v4
         id: meta
         with:
-          images: "ghcr.io/droppmarket/helm-deploy"
+          images: "ghcr.io/sergenarhi/helm-deploy"
           tags: |
             ${{ github.sha }}
             latest

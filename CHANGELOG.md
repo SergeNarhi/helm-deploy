@@ -2,9 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [3.1.2](https://github.com/droppmarket/helm-deploy/compare/v3.1.1...v3.1.2) (2023-02-20)
+### [3.1.2](https://github.com/sergenarhi/helm-deploy/compare/v3.1.1...v3.1.2) (2023-02-20)
 
-### [3.1.1](https://github.com/droppmarket/helm-deploy/compare/v1.6.8...v3.1.1) (2023-02-20)
+### [3.1.1](https://github.com/sergenarhi/helm-deploy/compare/v1.6.8...v3.1.1) (2023-02-20)
 
 ## [1.7.0](https://github.com/deliverybot/helm/compare/v1.6.1...v1.7.0) (2021-01-09)
 
